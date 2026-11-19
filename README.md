@@ -148,6 +148,7 @@ Skills are not MCP servers and not tools. MCP defines how an agent connects to e
 - [subagent-driven-development](https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/sadd/skills/subagent-driven-development) - Dispatches independent subagents for individual tasks with code review checkpoints between iterations for rapid, controlled development.
 - [test-driven-development](https://github.com/obra/superpowers/tree/main/skills/test-driven-development) - Use when implementing any feature or bugfix, before writing implementation code.
 - [using-git-worktrees](https://github.com/obra/superpowers/blob/main/skills/using-git-worktrees/) - Creates isolated git worktrees with smart directory selection and safety verification.
+- [Web Builder](https://github.com/skillux-hub/web-builder) - Build complete, verified websites from a written brief in Claude Code, Cursor, or Codex: 11 website types x 26 functional modules, Skillux template selection with entitlement checks, and a project record that separates planned, scaffolded, and verified work. Free and open-source (MIT). *By [@skillux-hub](https://github.com/skillux-hub)*
 - [Webapp Testing](./webapp-testing/) - Tests local web applications using Playwright for verifying frontend functionality, debugging UI behavior, and capturing screenshots.
 
 ### Data & Analysis
